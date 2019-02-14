@@ -40,7 +40,7 @@ class App extends Component {
           </a>
         </header>
 
-        <p className="App-intro">{this.state.data}</p>
+        <p className="App-intro">{this.state.datahow }</p>
       </div>
     );
   }
